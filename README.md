@@ -28,11 +28,7 @@ I enjoy working with **Python, Aiogram, Node.js, JavaScript**, and integrating *
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=normurodov-org&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normurodov-org&theme=github_dark" alt="Contribution Activity" />
-</p>
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/normurodov-org/normurodov-org/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
