@@ -36,12 +36,11 @@ I enjoy working with **Python, Aiogram, Node.js, JavaScript**, and integrating *
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=normurodov-org&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=normurodov-org&bg_color=0D1117&color=58A6FF&line=2CA5E0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
-
 <!-- Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/normurodov-org/normurodov-org/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
