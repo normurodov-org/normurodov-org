@@ -3,14 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Odilbek+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Telegram+Bots+%26+Web3+Architect" alt="Typing SVG" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
-Hi! I'm **Ozodbek**, a backend & full-stack developer who loves building fast, automated Telegram ecosystems and modern web applications.  
+Hi! I'm **Odilbek**, a backend & full-stack developer who loves building fast, automated Telegram ecosystems and modern web applications.  
 I enjoy working with **Python, Aiogram, Node.js, JavaScript**, and integrating **TON Blockchain** workflows into seamless digital products.
-
----
 
 ## 🌑 Tech Stack
 
@@ -25,8 +21,6 @@ I enjoy working with **Python, Aiogram, Node.js, JavaScript**, and integrating *
   <img src="https://img.shields.io/badge/VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
-
 ## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
@@ -34,14 +28,12 @@ I enjoy working with **Python, Aiogram, Node.js, JavaScript**, and integrating *
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=normurodov-org&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=normurodov-org&bg_color=0D1117&color=58A6FF&line=2CA5E0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normurodov-org&theme=github_dark" alt="Contribution Activity" />
 </p>
-<!-- Contribution Snake Animation -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/normurodov-org/normurodov-org/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
